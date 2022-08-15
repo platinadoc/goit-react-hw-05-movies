@@ -1,0 +1,14 @@
+.section {
+  padding: 20px;
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.item {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}

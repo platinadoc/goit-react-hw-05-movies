@@ -1,0 +1,52 @@
+.btnGoBack {
+  display: block;
+  padding: 7px;
+  margin-left: 80px;
+  background-color: #3a89f0;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  width: 8%;
+}
+
+.btnGoBack:hover {
+  background-color: rgb(62, 95, 185);
+}
+
+.section {
+  display: flex;
+  padding: 30px 0;
+  font-size: 18px;
+}
+
+.infoContainer {
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.userScore {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.overviewTitle {
+  font-weight: 700;
+}
+
+.overview {
+  margin: 10px 0;
+}
+
+.genresTitle {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.genreList {
+  margin-bottom: 10px;
+}

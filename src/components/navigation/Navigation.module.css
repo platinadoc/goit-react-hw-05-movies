@@ -1,0 +1,12 @@
+.siteNav {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.siteNav:not(:last-child) {
+  margin-right: 24px;
+}
+
+.activeSiteNav {
+  color: rgb(198, 211, 20);
+}
